@@ -2,7 +2,7 @@
 
 ## Education
 
-Bachelor's of Science in Computer Science with Honors from Portland State University (<https://www.pdx.edu>).
+Bachelor's of Science in Computer Science with Honors from [Portland State University](<https://www.pdx.edu>).
 
 ## Work Experience
 
